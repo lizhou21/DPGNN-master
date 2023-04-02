@@ -7,6 +7,6 @@ This repository is for our paper '[DPGNN: Dual-perception graph neural network f
 The command can be seen in ./script/train_model.sh
 
 ## results
-'''
+```
 python result_100run.py ./save_models/citeseer/
-'''
+```
